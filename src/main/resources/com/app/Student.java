@@ -8,6 +8,7 @@ public class Student
  private String nndwdw;
  private String nndd;
  private String ndn;
+ njnm m m 
 	
 }
 }
